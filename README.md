@@ -63,3 +63,7 @@ I'm **MD Bahauddin** — a software engineer with a passion for data-driven solu
 ---
 
 Thanks for visiting!
+
+## 🙋‍♂️ About Me
+
+I'm **MD Bahauddin** — a software engineer with a passion for data-driven solutions. With a growing focus on ML and analytics, I’m continuously building on these foundations through projects and certifications.
