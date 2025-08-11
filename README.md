@@ -50,20 +50,15 @@ This repository serves as a verified record of my learning path and skills in da
 
 ## 🙋‍♂️ About Me
 
-I'm **MD Bahauddin** — a software engineer with a passion for data-driven solutions. With a growing focus on ML and analytics, I’m continuously building on these foundations through projects and certifications.
+I'm **MD Bahauddin**, a Software Engineer at o9 Solutions, where I lead backend development for enterprise-scale planning solutions. With a strong foundation in software engineering and a growing focus on machine learning, I specialize in building intelligent, data-driven systems that enhance decision-making in complex supply chain environments.
+
 
 ---
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/md-bahauddin)
-- 📁 Portfolio: *Coming soon*
-- 📧 Email: md.bahauddin@o9solutions.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/bahau/)
 
 ---
 
 Thanks for visiting!
-
-## 🙋‍♂️ About Me
-
-I'm **MD Bahauddin** — a software engineer with a passion for data-driven solutions. With a growing focus on ML and analytics, I’m continuously building on these foundations through projects and certifications.
