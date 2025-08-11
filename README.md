@@ -32,18 +32,25 @@ These courses further strengthened my foundational knowledge in data science, co
 
 ## 🧠 Topics Covered
 
-- Python for Data Science
-- SQL and relational databases
-- Data wrangling and visualization
-- Exploratory data analysis (EDA)
-- Regression, classification, and ML models
-- End-to-end data science project work
+- Python programming (control flow, functions, OOP)  
+- NumPy and Pandas for data manipulation and aggregation  
+- SQL for querying and joining relational data  
+- Data cleaning, transformation, and preprocessing  
+- Data visualization with Matplotlib and Seaborn  
+- Exploratory data analysis (EDA) and statistical summaries  
+- Supervised learning: linear/logistic regression, k-NN, decision trees, SVM  
+- Unsupervised learning: k-means and hierarchical clustering  
+- Ensemble methods: introduction to bagging and random forests  
+- Model evaluation: cross-validation, ROC-AUC, F1-score  
+- End-to-end project execution (EDA → modeling → evaluation)  
+
 
 ---
 
 ## 📌 Why This Repo?
 
-This repository serves as a verified record of my learning path and skills in data science. It reflects both foundational knowledge and applied expertise across several real-world use cases.
+This repository serves as a verified showcase of my hands-on learning through the IBM Data Science Professional Certificate. It highlights both foundational and applied skills across key areas like Python, SQL, machine learning, and real-world data analysis.  
+It’s part of my ongoing effort to build a transparent, skills-based portfolio that demonstrates not just what I’ve learned — but how I apply it.
 
 ---
 
