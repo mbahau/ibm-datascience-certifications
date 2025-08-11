@@ -13,7 +13,7 @@ These are the key courses aligned with my interests in machine learning, analyti
 - [Applied Data Science Capstone](https://www.credly.com/badges/bc722f9e-4d91-4e6e-aec4-c6a300e5ea2b/public_url)  
 - [Data Analysis with Python](https://www.credly.com/badges/9c6eeb20-6211-423c-a4e3-b50adf9aa245/public_url)  
 - [Databases and SQL for Data Science](https://www.credly.com/badges/8f97637d-ef5d-45d1-92ca-55134574ee0e/public_url)
-- [Python for Data Science and AI](https://www.credly.com/badges/d65204ae-17b8-4dab-a04e-5e6e29fb98a8/public_url)  
+- [Python for Data Science and AI](https://www.credly.com/badges/f404fafb-48ae-42b9-bc91-31fb16356be0/public_url)  
 
 ---
 
